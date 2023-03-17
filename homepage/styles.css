@@ -1,0 +1,63 @@
+.bg {
+    /* The image used */
+    background-image: url("NY.jpeg");
+
+    /* Full Height */
+    height: 100vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#home {
+    /* Center h1 headline */
+    text-align: center;
+
+    /* Make h1 white */
+    color: white;
+
+    /* Make shadow */
+    text-shadow: 2px 2px 4px black;
+}
+
+.heading {
+    text-align: center;
+    color: black;
+    font-size: 48px;
+    font-family: 'Julee', cursive;
+}
+
+.container-fluid{
+    background-color: black;
+}
+
+.nav-link {
+    color: white;
+}
+iframe{
+    border-style: solid;
+    border-width: thick;
+    border-color: black;
+}
+
+.bg-dark {
+    background-color: black;
+  }
+
+p {
+    color: white;
+}
+
+div.gallery {
+    margin: 73px;
+    float: left;
+    vertical-align: middle;
+    text-align: center;
+}
+
+div.desc {
+    text-align: center;
+}
+
